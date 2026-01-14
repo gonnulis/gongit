@@ -1,0 +1,2 @@
+# gongit
+Latihan Pertama Git
